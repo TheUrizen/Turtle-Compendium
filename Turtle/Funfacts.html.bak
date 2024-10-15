@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>The Turtle Compendium</title>
+      <!-- 
+         Lakeland Reeds Bed & Breakfast Reservations page
+         Filename: reserve.html
+
+         Author: John Starkey  
+         Date: 5/8/2024    
+         HTML5 and CSS3 Illustrated Unit H, Lessons
+      -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <script src="modernizr.custom.40753.js"></script>
+      <link href='http://fonts.googleapis.com/css?family=Bitter:400,700' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="styles.css">
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="icon" sizes="192x192" href="images/android.png">
+   </head>
+   <body>
+      <p class="skipnavigation"><a href="#contentstart">Skip navigation</a></p> 
+      <header>
+         <h1><a href="home.html"><img src="images/Turtle.png" width="659" height="165" alt="The Turtle Compendium"></a></h1>
+      </header>
+      <nav class="sitenavigation">
+       <ul>
+         <li><a href="Home.html">Home</a></li>
+         <li><a href="Species.html">Species</a></li>
+         <li><a href="Funfacts.html">Fun Facts</a></li>
+        </ul>
+      </nav>
+      <article>
+         <div>
+            <h2 id="contentstart">Fun Facts</h2>
+            <p>Get ready for some of the craziest turtle facts you'll ever read... </p>
+			 <figure>
+                 
+               </figure>
+            <section>
+               <h3>Turtle Fact FRENZY</h3>
+				
+				  <figure>
+                  <img src="images/facts.jpg" width="350" height="233" alt="A turtle being rescued.">
+               </figure>
+         
+               <ol>
+					<li>Turtles are reptiles that have been around for over 200 million years.</li>
+					<li>They are found on every continent except Antarctica.</li>
+					<li>The largest species of turtle is the leatherback sea turtle, which can weigh up to 2,000 pounds.</li>
+					<li>The smallest species of turtle is the speckled padloper tortoise, which measures about 3-4 inches in length.</li>
+					<li>Turtles have a hard shell made of bone and cartilage.</li>
+					<li>Some turtles can retract their head and limbs into their shell for protection.</li>
+					<li>Sea turtles spend most of their lives in the ocean and only come ashore to lay eggs.</li>
+					<li>Turtles are ectothermic, which means they rely on their environment to regulate their body temperature.</li>
+					<li>The age of a turtle can be determined by counting the rings on its shell, similar to counting tree rings.</li>
+					<li>Turtles have a keen sense of smell and use it to locate food.</li>
+					<li>Some species of turtles can live over 100 years.</li>
+					<li>Turtles are omnivores, meaning they eat both plants and animals.</li>
+					<li>Male turtles are typically smaller than females.</li>
+					<li>Turtles have good eyesight both in and out of the water.</li>
+					<li>The sex of turtle hatchlings is determined by the temperature of the nest during incubation.</li>
+					<li>Turtles can hold their breath for several hours underwater.</li>
+					<li>The ridges on a turtle's shell can help identify its species.</li>
+					<li>Turtles have been kept as pets for thousands of years.</li>
+					<li>The largest population of sea turtles is found in the Great Barrier Reef.</li>
+					<li>Turtles play an important role in their ecosystems by helping to control populations of prey species.</li>
+					<li>Some species of turtles, like the loggerhead, migrate long distances between feeding and breeding grounds.</li>
+					<li>The largest freshwater turtle is the alligator snapping turtle, which can weigh over 200 pounds.</li>
+					<li>Turtles have been known to travel hundreds of miles during migration.</li>
+					<li>Turtles have a strong sense of touch and can feel vibrations through their shell.</li>
+					<li>The hawksbill sea turtle is known for its beautiful shell, which has been used to make jewelry and other decorative items.</li>
+					<li>Turtles have a unique reproductive strategy that involves laying eggs on land.</li>
+					<li>Some species of turtles, like the green sea turtle, are endangered due to habitat loss and poaching.</li>
+					<li>Turtles have been the subject of scientific research for centuries, helping scientists understand evolution and ecology.</li>
+					<li>Turtles have a strong homing instinct, which helps them find their way back to their nesting beaches.</li>
+					<li>Some species of turtles, like the loggerhead, are known for their powerful jaws and can crush the shells of their prey.</li>
+
+               </ol>
+            </section>
+            
+            <section>
+               <h3>Questions?</h3>
+               <p>Feel free to contact us with any queries to fulfill your turtle based needs.</p>
+               <div class="contact"> 
+                  <div class="row">
+                     <div class="category">Turtle Expert</div>
+                     <div>John Starkey</div>
+                  </div>
+                  <div class="row">
+                     <div class="category">Email</div>
+                     <div>john.starkey39@qc.quincycollege.edu</div>
+                  </div>
+               </d1>
+               <div class="row">
+                  <div class="category">Phone</div>
+                  <div>(617) 963-4805</div>
+               </div>
+               <div class="row">
+                  <div class="category">Fax</div>
+                  <div>(617) 963-4805</div>
+             </div>
+            </section>
+         </div>
+      </article>
+      <footer>
+         <p>6 Cranberry Cove &bull; Marshfield, MA 02171 &bull; (617) 963 4805</p>
+      </footer>
+   </body>
+</html>

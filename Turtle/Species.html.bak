@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>The Turtle Compendium</title>
+      <!-- 
+         Lakeland Reeds Bed & Breakfast Reservations page
+         Filename: reserve.html
+
+         Author: John Starkey  
+         Date: 5/8/2024    
+         HTML5 and CSS3 Illustrated Unit H, Lessons
+      -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <script src="modernizr.custom.40753.js"></script>
+      <link href='http://fonts.googleapis.com/css?family=Bitter:400,700' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="styles.css">
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="icon" sizes="192x192" href="images/android.png">
+   </head>
+   <body>
+      <p class="skipnavigation"><a href="#contentstart">Skip navigation</a></p> 
+      <header>
+         <h1><a href="home.html"><img src="images/Turtle.png" width="659" height="165" alt="The Turtle Compendium"></a></h1>
+      </header>
+      <nav class="sitenavigation">
+       <ul>
+         <li><a href="Home.html">Home</a></li>
+         <li><a href="Species.html">Species</a></li>
+         <li><a href="Funfacts.html">Fun Facts</a></li>
+        </ul>
+      </nav>
+      <article>
+         <div>
+            <h2 id="contentstart">Turtle Species</h2>
+            <p>This page lists a series of our organization's favorite turtle species.</p>
+            <section>
+               <h3>Galapagos Giant Tortoise</h3>
+               <figure>
+                  <img src="images/galapagos.jpg" width="350" height="233" alt="A Galapagos Giant Tortoise">
+               </figure>
+               <p>A tortoise is a turtle too! These giant shelled beasts are infamous for their huge size and long lifespan. They eat prickl pear cactuses, fruits, grasses, leaves, and flowers.</p>
+               <ul>
+                  <li><i>Size:</i> Will exceed 500 pounds in weight and 5 feet in length</li>
+                  <li><i>Lifespan:</i> Have been known to reach 175 years in age.</li>
+                  <li><i>Location:</i> It's no shocker they primarily inhabit the Galapagos Islands. </li>
+              </ul>
+            </section>
+            <section>
+               <h3>Alligator Snapping Turtle</h3>
+               <figure>
+                  <img src="images/snapping.jpg" width="350" height="233" alt="An Alligator Snapping Turtle">
+               </figure>
+               <p>These ferocious creatures will bite your finger right off if you let them. The largest freshwater turtle in the world, they have an average bite force of 209 N.  </p>
+               <ul>
+                  <li><i>Size:</i> They can reach up to 29 inches.</li>
+                  <li><i>Lifespan:</i> They typically range from 50 to 100 years old. </li>
+                  <li><i>Location:</i> All across the Americas, most commonly in the American south, in freshwater sources.</li>
+              </ul>
+            </section>
+            <section>
+               <h3>Leatherback Sea Turtle</h3>
+               <figure>
+                  <img src="images/leatherback.jpg" width="350" height="233" alt="A leatherback sea turtle.">
+               </figure>
+               <p>Probably the most famous of all turtles, these wanderers are known for their giant migratory patterns, and their egg-laying escapades.  </p>
+               <ul>
+                  <li><i>Size:</i> They avarage 6 feet in length, and range from 500 to 1500 pounds when mature.</li>
+                  <li><i>Lifespan:</i> In captivity, they live up to 70 years. In the wild, 50. </li>
+                  <li><i>Location:</i> Their stomping grounds are the Atlantic, Pacific, and Indian oceans.</li>
+              </ul>
+            </section>
+            <section>
+               <h3>Questions?</h3>
+               <p>Feel free to contact us with any queries to fulfill your turtle based needs.</p>
+               <div class="contact"> 
+                  <div class="row">
+                     <div class="category">Turtle Expert</div>
+                     <div>John Starkey</div>
+                  </div>
+                  <div class="row">
+                     <div class="category">Email</div>
+                     <div>john.starkey39@qc.quincycollege.edu</div>
+                  </div>
+               </d1>
+               <div class="row">
+                  <div class="category">Phone</div>
+                  <div>(617) 963-4805</div>
+               </div>
+               <div class="row">
+                  <div class="category">Fax</div>
+                  <div>(617) 963-4805</div>
+             </div>
+            </section>
+         </div>
+      </article>
+      <footer>
+         <p>6 Cranberry Cove &bull; Marshfield, MA 02171 &bull; (617) 963 4805</p>
+      </footer>
+   </body>
+</html>
